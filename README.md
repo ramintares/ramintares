@@ -6,15 +6,13 @@
 
 :blue_book: Learning to manipulate, analyse and visualise data
 
-:computer: Looking for opportunities in Data Analytics
+:flashlight: Looking for opportunities in Data Analytics
 
-
-
-Tools and techniques that I have experience with:
-   - SQL
-   - RStudio
-   - Spreadsheets
-   - Looker Studio
+:computer: Tools and techniques that I have experience with:
+      - SQL
+      - RStudio
+      - Spreadsheets
+      - Looker Studio
 
 
 
