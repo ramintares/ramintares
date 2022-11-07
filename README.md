@@ -9,11 +9,13 @@
 :computer: Looking for opportunities in Data Analytics
 
 
+
 Tools and techniques that I have experience with:
-- SQL
-- RStudio
-- Spreadsheets
-- Looker Studio
+   - SQL
+   - RStudio
+   - Spreadsheets
+   - Looker Studio
+
 
 
 📫 Reach me on email: raminta.reskeviciute@gmail.com 
