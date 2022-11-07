@@ -9,9 +9,13 @@
 :flashlight: Looking for opportunities in Data Analytics
 
 :computer: Tools and techniques that I have experience with:
+
       - SQL
+      
       - RStudio
+      
       - Spreadsheets
+      
       - Looker Studio
 
 
