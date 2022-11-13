@@ -1,8 +1,8 @@
 ### 👋 Hi, I am Raminta Reškevičiūtė
 
-:microscope: Working on life sciences field
+:microscope: Working in life sciences field
 
-:bar_chart: Data analytics student at Turing College
+:bar_chart: Data analytics student in Turing College
 
 :blue_book: Learning to manipulate, analyse and visualise data
 
