@@ -11,4 +11,4 @@
 :computer: Tools and techniques that I have experience with: SQL; RStudio; Spreadsheets; Looker Studio
 
 📫 Reach me on email: raminta.reskeviciute@gmail.com 
-   or on LinkedIn: https://www.linkedin.com/in/raminta-re%C5%A1kevi%C4%8Di%C5%ABt%C4%97/
+   or on LinkedIn: https://www.linkedin.com/in/raminta-reskeviciute/
